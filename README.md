@@ -16,9 +16,12 @@ Opera Mini es un navegador web móvil desarrollado por la compañía de software
 
 4. Además de la compresión de datos, Opera Mini también almacena en caché las páginas web visitadas con frecuencia en el servidor proxy. Esto significa que si un usuario vuelve a solicitar una página web que ya ha visitado, Opera Mini la cargará más rápidamente porque ya está almacenada en la caché del servidor.   
 
-| **VENTAJAS** | **DESVENTAJAS** |
+
+| ✔️**VENTAJAS**✔️ | ❌**DESVENTAJAS**❌ |
 | :-----------: | :----------: |
 | Compresión de datos | Menos funcionalidades |
 | Navegación rápida | Compatibilidad limitada |
 | Ahorro de datos | Privacidad |
 | Modo ahorro de batería | Menos personalización |
+
+[Enlace-de-descarga](https://play.google.com/store/apps/details?id=com.opera.mini.native&hl=es&gl=US&pli=1)
