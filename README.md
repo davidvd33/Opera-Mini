@@ -24,4 +24,6 @@ Opera Mini es un navegador web móvil desarrollado por la compañía de software
 | Ahorro de datos | Privacidad |
 | Modo ahorro de batería | Menos personalización |
 | Add Blocker Integrado |  |
+
+
 [Enlace-de-descarga](https://play.google.com/store/apps/details?id=com.opera.mini.native&hl=es&gl=US&pli=1)
